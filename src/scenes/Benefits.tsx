@@ -1,4 +1,3 @@
-import React from 'react'
 import { HomeModernIcon, UserGroupIcon, AcademicCapIcon } from '@heroicons/react/24/solid';
 import { motion } from 'framer-motion';
 import HText from '@/shared/HText';

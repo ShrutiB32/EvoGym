@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import Navbar from '@/scenes/Navbar'
 import Home from './scenes/Home';
 import Benefits from './scenes/Benefits';

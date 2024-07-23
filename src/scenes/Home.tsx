@@ -1,6 +1,4 @@
-import React from 'react';
-import useMediaQuery
-    from '@/hooks/useMediaQuery';
+import useMediaQuery from '@/hooks/useMediaQuery';
 import ActionButton from '@/shared/ActionButton';
 import HomePageText from "@/assets/HomePageText.png";
 import HomePageGraphic from "@/assets/HomePageGraphic.png"
